@@ -1,4 +1,4 @@
-﻿namespace RoundTheCode.xunit
+﻿namespace Day1UnitTest.xunit
 {
     public class GlobalUsings
     {

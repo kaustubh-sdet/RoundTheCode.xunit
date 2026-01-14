@@ -1,4 +1,4 @@
-﻿namespace RoundTheCode.xUnit.methods
+﻿namespace Day1UnitTest.xUnit.methods
 {
     public static class NumberHelper
     {

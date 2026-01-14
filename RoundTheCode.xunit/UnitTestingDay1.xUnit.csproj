@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RoundTheCode.xUnit.methods\RoundTheCode.xUnit.methods.csproj" />
+    <ProjectReference Include="..\RoundTheCode.xUnit.methods\UnitTestingDay1.xUnit.methods.csproj" />
   </ItemGroup>
 
   <ItemGroup>

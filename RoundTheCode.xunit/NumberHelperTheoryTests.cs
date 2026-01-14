@@ -1,6 +1,6 @@
-﻿using RoundTheCode.xUnit.methods;
+﻿using Day1UnitTest.xUnit.methods;
 
-namespace RoundTheCode.xUnit
+namespace Day1unitTest.xUnit
 {
     public class NumberHelperTheoryTests
     {
