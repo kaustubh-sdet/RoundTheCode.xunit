@@ -1,7 +1,7 @@
-✅ README.md (Copy Paste)
+✅ README.md
 # Day1UnitTest.xunit ✅
 
-This repository contains **C# xUnit test cases** created as part of daily practice / learning.
+This repository contains **C# xUnit test cases** created as part of daily practice/learning.
 It includes examples of unit testing concepts using **xUnit framework** in .NET.
 
 ---
