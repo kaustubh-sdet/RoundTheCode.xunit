@@ -27,10 +27,15 @@ It includes examples of unit testing concepts using **xUnit framework** in .NET.
 
 Day1UnitTest.xunit/
 │
+
 ├── RoundTheCode.xunit/ # Main xUnit test project
-├── RoundTheCode.xUnit.methods/ # Additional methods / helper project (if applicable)
+
+├── RoundTheCode.xUnit.methods/ # Additional methods/helper project (if applicable)
+
 ├── README.md # Documentation
+
 ├── .gitignore
+
 └── .gitattributes
 
 
