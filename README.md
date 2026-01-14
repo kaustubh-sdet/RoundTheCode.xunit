@@ -100,8 +100,8 @@ Create a new branch
 Push changes
 
 Submit a Pull Request
-
+```
 ## 👨‍💻 Author
 
-**Kaustubh W**  
+**Kaustubh W** 
 GitHub: [kaustubh-sdet ↗](https://github.com/kaustubh-sdet)
