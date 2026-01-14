@@ -98,7 +98,7 @@ Push changes
 
 Submit a Pull Request
 
-🧑‍💻 Author
+## 👨‍💻 Author
 
-Kaustubh W
-GitHub: kaustubh-sdet
+**Kaustubh W**  
+GitHub: [kaustubh-sdet ↗](https://github.com/kaustubh-sdet)
