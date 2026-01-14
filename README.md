@@ -1,3 +1,6 @@
+[![.NET](https://img.shields.io/badge/.NET-8.0-purple)](https://dotnet.microsoft.com/)
+[![xUnit](https://img.shields.io/badge/xUnit-Unit%20Testing-blue)](https://xunit.net/)
+[![Build](https://github.com/kaustubh-sdet/Day1UnitTest.xunit/actions/workflows/dotnet.yml/badge.svg)](https://github.com/kaustubh-sdet/Day1UnitTest.xunit/actions/workflows/dotnet.yml)
 ✅ README.md
 # Day1UnitTest.xunit ✅
 
