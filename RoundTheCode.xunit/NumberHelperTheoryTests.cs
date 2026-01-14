@@ -44,5 +44,14 @@ namespace RoundTheCode.xUnit
             // Assert
             Assert.True(NumberHelper.IsEvenNumber(number));
         }
+
+        [Theory]
+        [InlineData(2,"Poor")]
+        [InlineData(5, "Average")]
+        [InlineData(9, "Excellent")]
+        public void RatingScore_Values_EqualCorrectRating(int number, string rating)
+        {
+            Assert.Equal(rating, NumberHelper.RatingScore(number));
+        }
     }
 }

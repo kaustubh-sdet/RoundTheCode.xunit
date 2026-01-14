@@ -33,5 +33,18 @@ namespace RoundTheCode.xUnit
             Assert.True(NumberHelper.IsEvenNumber(6));
         }
 
+        [Fact]
+        public void RatingScore_ValueOf7_EqualsIsGreat()
+        {
+            // Assert
+            Assert.Equal("Excellent", NumberHelper.RatingScore(7));
+        }
+
+        [Fact]
+        public void RatingScore_ValueOf7_DoesNotEqualsBad()
+        {
+            // Assert
+            Assert.NotEqual("Bad", NumberHelper.RatingScore(7));
+        }
     }
 }
