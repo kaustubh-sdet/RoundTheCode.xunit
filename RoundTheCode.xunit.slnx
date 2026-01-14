@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RoundTheCode.xUnit.methods/RoundTheCode.xUnit.methods.csproj" />
+  <Project Path="RoundTheCode.xunit/RoundTheCode.xUnit.csproj" />
+</Solution>
